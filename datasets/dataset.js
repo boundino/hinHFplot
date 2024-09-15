@@ -12558,6 +12558,78 @@ dataset["Dbar0_v1_y_PbPb_5TeV_ALICE_cent-10-40_pT-3-6"] = {
     ]
 };
 
+dataset["incD0_RAA_pT_RuRuZrZr_200GeV_STAR_cent-0-10_absy-lt-1"] = {
+    reference : "STAR Preliminary",
+    link : "https://indico.cern.ch/event/1139644/contributions/5539919/attachments/2709003/4703769/QM_09052023_YuanSu.pdf",
+    update : "2024-09-15",
+    observable : "RAA",
+    xtitle : "pT",
+    particle : "Inclusive D<sup>0</sup>",
+    collision : "RuRu+ZrZr",
+    energy : "200 GeV",
+    collab : "STAR",
+    kinea : "0-10%",
+    kineb : "|y| < 1",
+    data : [
+        {"x": 0.319, "xl": 0, "xh": 0.5, "y": 0.267993, "stath": 0.00135478, "statl": 0.00135478, "systh": 0.68823, "systl": 0.123285},
+        {"x": 0.75, "xl": 0.5, "xh": 1, "y": 0.423793, "stath": 0.0650296, "statl": 0.0650296, "systh": 0.226249, "systl": 0.12464},
+        {"x": 1.358, "xl": 1, "xh": 1.5, "y": 0.637849, "stath": 0.0853514, "statl": 0.0853514, "systh": 0.214056, "systl": 0.150381},
+        {"x": 1.886, "xl": 1.5, "xh": 2, "y": 0.63243, "stath": 0.081287, "statl": 0.081287, "systh": 0.181541, "systl": 0.143607},
+        {"x": 2.562, "xl": 2, "xh": 3, "y": 0.891194, "stath": 0.0826418, "statl": 0.0826418, "systh": 0.277731, "systl": 0.21812},
+        {"x": 3.433, "xl": 3, "xh": 4, "y": 0.450889, "stath": 0.0745131, "statl": 0.0745131, "systh": 0.134124, "systl": 0.102964},
+        {"x": 4.432, "xl": 4, "xh": 5, "y": 0.566046, "stath": 0.100254, "statl": 0.100254, "systh": 0.162574, "systl": 0.12735},
+        {"x": 6.064, "xl": 5, "xh": 8, "y": 0.335732, "stath": 0.0812871, "statl": 0.0812871, "systh": 0.128704, "systl": 0.0948349},
+    ]
+};
+
+dataset["incD0_RAA_pT_RuRuZrZr_200GeV_STAR_cent-10-40_absy-lt-1"] = {
+    reference : "STAR Preliminary",
+    link : "https://indico.cern.ch/event/1139644/contributions/5539919/attachments/2709003/4703769/QM_09052023_YuanSu.pdf",
+    update : "2024-09-15",
+    observable : "RAA",
+    xtitle : "pT",
+    particle : "Inclusive D<sup>0</sup>",
+    collision : "RuRu+ZrZr",
+    energy : "200 GeV",
+    collab : "STAR",
+    kinea : "10-40%",
+    kineb : "|y| < 1",
+    data : [
+        {"x": 0.316, "xl": 0, "xh": 0.5, "y": 0.394253, "stath": 0, "statl": 0, "systh": 1.00718, "systl": 0.170977},
+        {"x": 0.75, "xl": 0.5, "xh": 1, "y": 0.497701, "stath": 0.0531609, "statl": 0.0531609, "systh": 0.258621, "systl": 0.142241},
+        {"x": 1.361, "xl": 1, "xh": 1.5, "y": 0.555172, "stath": 0.0474138, "statl": 0.0474138, "systh": 0.182471, "systl": 0.123563},
+        {"x": 1.889, "xl": 1.5, "xh": 2, "y": 0.667241, "stath": 0.0531609, "statl": 0.0531609, "systh": 0.188218, "systl": 0.145115},
+        {"x": 2.562, "xl": 2, "xh": 3, "y": 0.601149, "stath": 0.0431035, "statl": 0.0431035, "systh": 0.183908, "systl": 0.135057},
+        {"x": 3.436, "xl": 3, "xh": 4, "y": 0.591092, "stath": 0.0028736, "statl": 0.0028736, "systh": 0.176724, "systl": 0.12931},
+        {"x": 4.434, "xl": 4, "xh": 5, "y": 0.629885, "stath": 0.00287354, "statl": 0.00287354, "systh": 0.176724, "systl": 0.133621},
+        {"x": 6.067, "xl": 5, "xh": 8, "y": 0.578161, "stath": 0.0632184, "statl": 0.0632184, "systh": 0.196839, "systl": 0.133621},
+    ]
+};
+
+dataset["incD0_RAA_pT_RuRuZrZr_200GeV_STAR_cent-40-80_absy-lt-1"] = {
+    reference : "STAR Preliminary",
+    link : "https://indico.cern.ch/event/1139644/contributions/5539919/attachments/2709003/4703769/QM_09052023_YuanSu.pdf",
+    update : "2024-09-15",
+    observable : "RAA",
+    xtitle : "pT",
+    particle : "Inclusive D<sup>0</sup>",
+    collision : "RuRu+ZrZr",
+    energy : "200 GeV",
+    collab : "STAR",
+    kinea : "40-80%",
+    kineb : "|y| < 1",
+    data : [
+        {"x": 0.316, "xl": 0, "xh": 0.5, "y": 0.308649, "stath": 0, "statl": 0, "systh": 0.799763, "systl": 0.131813},
+        {"x": 0.75, "xl": 0.5, "xh": 1, "y": 0.501185, "stath": 0.0622038, "statl": 0.0622038, "systh": 0.254739, "systl": 0.134775},
+        {"x": 1.355, "xl": 1, "xh": 1.5, "y": 0.397512, "stath": 0, "statl": 0, "systh": 0.130332, "systl": 0.0888625},
+        {"x": 1.886, "xl": 1.5, "xh": 2, "y": 0.455273, "stath": 0.0488744, "statl": 0.0488744, "systh": 0.124408, "systl": 0.0977488},
+        {"x": 2.563, "xl": 2, "xh": 3, "y": 0.698164, "stath": 0.0740522, "statl": 0.0740522, "systh": 0.211789, "systl": 0.162915},
+        {"x": 3.434, "xl": 3, "xh": 4, "y": 0.593009, "stath": 0.0799763, "statl": 0.0799763, "systh": 0.176244, "systl": 0.134775},
+        {"x": 4.433, "xl": 4, "xh": 5, "y": 0.733709, "stath": 0, "statl": 0, "systh": 0.202903, "systl": 0.154028},
+        {"x": 6.066, "xl": 5, "xh": 8, "y": 0.829976, "stath": 0.0873815, "statl": 0.0873815, "systh": 0.273993, "systl": 0.188092},
+    ]
+};
+
 dataset["incD0_v2_pT_AuAu_200GeV_STAR_cent-0-80_absy-lt-1"] = {
     reference : "PRL 118 (2017) 212301",
     link : "https://arxiv.org/abs/1701.06060",
@@ -21569,7 +21641,7 @@ dataset["Upsilon2S_RAA_cent_PbPb_5TeV_ALICE_pT-lt-15_y-2p5-4"] = {
 };
 
 dataset["Upsilon2S_RAA_cent_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "RAA",
@@ -21670,7 +21742,7 @@ dataset["Upsilon2S_RAA_Npart_PbPb_5TeV_ATLAS_pT-lt-30_absy-lt-1p5"] = {
 };
 
 dataset["Upsilon2S_RAA_Npart_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "RAA",
@@ -21752,7 +21824,7 @@ dataset["Upsilon2S_RAA_pT_PbPb_5TeV_ATLAS_cent-0-80_absy-lt-1p5"] = {
 };
 
 dataset["Upsilon2S_RAA_pT_PbPb_5TeV_CMS_cent-0-90_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "RAA",
@@ -21974,7 +22046,7 @@ dataset["Upsilon3SToUpsilon1S_DoubleRatio_ycm_pPb_8TeV_LHCb__pT-lt-25"] = {
 };
 
 dataset["Upsilon3SToUpsilon2S_DoubleRatio_cent_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "DoubleRatio",
@@ -21994,7 +22066,7 @@ dataset["Upsilon3SToUpsilon2S_DoubleRatio_cent_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p
 };
 
 dataset["Upsilon3SToUpsilon2S_DoubleRatio_Npart_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "DoubleRatio",
@@ -22014,7 +22086,7 @@ dataset["Upsilon3SToUpsilon2S_DoubleRatio_Npart_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2
 };
 
 dataset["Upsilon3SToUpsilon2S_DoubleRatio_pT_PbPb_5TeV_CMS_cent-0-90_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "DoubleRatio",
@@ -22034,7 +22106,7 @@ dataset["Upsilon3SToUpsilon2S_DoubleRatio_pT_PbPb_5TeV_CMS_cent-0-90_absy-lt-2p4
 };
 
 dataset["Upsilon3S_RAA_cent_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "RAA",
@@ -22054,7 +22126,7 @@ dataset["Upsilon3S_RAA_cent_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
 };
 
 dataset["Upsilon3S_RAA_Npart_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "RAA",
@@ -22074,7 +22146,7 @@ dataset["Upsilon3S_RAA_Npart_PbPb_5TeV_CMS_pT-lt-30_absy-lt-2p4"] = {
 };
 
 dataset["Upsilon3S_RAA_pT_PbPb_5TeV_CMS_cent-0-90_absy-lt-2p4"] = {
-    reference : "PRL 133 (2024) 022302",
+    reference : "arXiv:2303.17026",
     link : "https://arxiv.org/abs/2303.17026",
     update : "2023-03-29",
     observable : "RAA",
