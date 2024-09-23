@@ -4903,7 +4903,7 @@ dataset["aprDsubs_RpA_ycm_pPb_8TeV_LHCb__pT-1-10"] = {
 
 dataset["aprDsubs_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     reference : "ALICE Preliminary",
-    link : "",
+    link : "https://indico.cern.ch/event/1339555/contributions/6040878/attachments/2932269/5149682/HP2024_biao_v7.pdf",
     update : "2024-09-23",
     observable : "v2",
     xtitle : "pT",
@@ -5089,7 +5089,7 @@ dataset["aprD_RpA_pT_pPb_5TeV_ALICE__ycm-M0p96-0p04"] = {
 
 dataset["aprD_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     reference : "ALICE Preliminary",
-    link : "",
+    link : "https://indico.cern.ch/event/1339555/contributions/6040878/attachments/2932269/5149682/HP2024_biao_v7.pdf",
     update : "2024-09-23",
     observable : "v2",
     xtitle : "pT",
