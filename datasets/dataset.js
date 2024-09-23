@@ -4901,6 +4901,29 @@ dataset["aprDsubs_RpA_ycm_pPb_8TeV_LHCb__pT-1-10"] = {
     ]
 };
 
+dataset["aprDsubs_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
+    reference : "ALICE Preliminary",
+    link : "",
+    update : "2024-09-23",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sub>s</sub>",
+    collision : "PbPb",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "30-50%",
+    kineb : "|y| < 0.8",
+    data : [
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.140625, "stath": 0.0178571, "statl": 0.0178571, "systh": 0.00535715, "systl": 0.00580357},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.176786, "stath": 0.0165179, "statl": 0.0165179, "systh": 0.00491072, "systl": 0.00535713},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.148214, "stath": 0.0200893, "statl": 0.0200893, "systh": 0.0111607, "systl": 0.0102679},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.119196, "stath": 0.0236607, "statl": 0.0236607, "systh": 0.0107143, "systl": 0.0107143},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.0754464, "stath": 0.0267857, "statl": 0.0267857, "systh": 0.0116071, "systl": 0.0111607},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.0526786, "stath": 0.0473214, "statl": 0.0473214, "systh": 0.0111607, "systl": 0.0116071},
+        {"x": 11, "xl": 10, "xh": 12, "y": -0.0383929, "stath": 0.0674107, "statl": 0.0674107, "systh": 0.05625, "systl": 0.0571429},
+    ]
+};
+
 dataset["aprDsubs_v2_pT_PbPb_5TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     reference : "PLB 827 (2022) 136986",
     link : "https://arxiv.org/abs/2110.10006",
@@ -5061,6 +5084,35 @@ dataset["aprD_RpA_pT_pPb_5TeV_ALICE__ycm-M0p96-0p04"] = {
         {"x": 14, "xl": 12, "xh": 16, "y": 1.01, "stath": 0.051, "statl": 0.051, "systh": 0.0900821, "systl": 0.0918629},
         {"x": 20, "xl": 16, "xh": 24, "y": 1.155, "stath": 0.093, "statl": 0.093, "systh": 0.107044, "systl": 0.110646},
         {"x": 30, "xl": 24, "xh": 36, "y": 1.033, "stath": 0.143, "statl": 0.143, "systh": 0.117872, "systl": 0.11974},
+    ]
+};
+
+dataset["aprD_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
+    reference : "ALICE Preliminary",
+    link : "",
+    update : "2024-09-23",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D",
+    collision : "PbPb",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "30-50%",
+    kineb : "|y| < 0.8",
+    data : [
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.0923024, "stath": 0.00953679, "statl": 0.00953679, "systh": 0.0135105, "systl": 0.0143052},
+        {"x": 2.25, "xl": 2, "xh": 2.5, "y": 0.124886, "stath": 0, "statl": 0, "systh": 0.00476839, "systl": 0.00516576},
+        {"x": 2.75, "xl": 2.5, "xh": 3, "y": 0.145947, "stath": 0, "statl": 0, "systh": 0.0047684, "systl": 0.00516576},
+        {"x": 3.25, "xl": 3, "xh": 3.5, "y": 0.163034, "stath": 0, "statl": 0, "systh": 0.00437103, "systl": 0.00476839},
+        {"x": 3.75, "xl": 3.5, "xh": 4, "y": 0.170981, "stath": 0.000794724, "statl": 0.000794724, "systh": 0.00476839, "systl": 0.0047684},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.147536, "stath": 0, "statl": 0, "systh": 0.00516576, "systl": 0.00596049},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.110184, "stath": 0, "statl": 0, "systh": 0.00556313, "systl": 0.00596049},
+        {"x": 6.5, "xl": 6, "xh": 7, "y": 0.122105, "stath": 0.0103315, "statl": 0.0103315, "systh": 0.00834469, "systl": 0.00834469},
+        {"x": 7.5, "xl": 7, "xh": 8, "y": 0.0597184, "stath": 0.0107289, "statl": 0.0107289, "systh": 0.00715259, "systl": 0.00754995},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.0756131, "stath": 0.0107289, "statl": 0.0107289, "systh": 0.0107289, "systl": 0.0103315},
+        {"x": 11, "xl": 10, "xh": 12, "y": 0.0430291, "stath": 0.0139078, "statl": 0.0139078, "systh": 0.0139078, "systl": 0.0135104},
+        {"x": 14, "xl": 12, "xh": 16, "y": 0.101972, "stath": 0.0155635, "statl": 0.0155635, "systh": 0.0208617, "systl": 0.0218551},
+        {"x": 20, "xl": 16, "xh": 24, "y": 0.102965, "stath": 0.0261599, "statl": 0.0261599, "systh": 0.0218551, "systl": 0.0221863},
     ]
 };
 
