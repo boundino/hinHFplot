@@ -721,6 +721,37 @@ dataset["aprD0_v2_cent_PbPb_5TeV_CMS_pT-2-8_absy-lt-1"] = {
     ]
 };
 
+dataset["aprD0_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
+    reference : "ALICE Preliminary",
+    link : "https://indico.cern.ch/event/1334113/contributions//6350987/attachments/3046364/5382740/QM2025_charmflow_wuct_f.pdf",
+    update : "2025-04-09",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sup>0</sup>",
+    collision : "PbPb",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "30-50%",
+    kineb : "|y| < 0.8",
+    data : [
+        {"x": 0.75, "xl": 0.5, "xh": 1, "y": 0.0259196, "stath": 0.00854492, "statl": 0.00854492, "systh": 0.00313314, "systl": 0.00284831},
+        {"x": 1.25, "xl": 1, "xh": 1.5, "y": 0.0583903, "stath": 0, "statl": 0, "systh": 0.00313314, "systl": 0.00284831},
+        {"x": 1.75, "xl": 1.5, "xh": 2, "y": 0.0939941, "stath": 0, "statl": 0, "systh": 0.00113932, "systl": 0.00142416},
+        {"x": 2.25, "xl": 2, "xh": 2.5, "y": 0.133633, "stath": 0, "statl": 0, "systh": 0.00142416, "systl": 0.00142415},
+        {"x": 2.75, "xl": 2.5, "xh": 3, "y": 0.157369, "stath": 0, "statl": 0, "systh": 0.00142416, "systl": 0.00142415},
+        {"x": 3.25, "xl": 3, "xh": 3.5, "y": 0.173747, "stath": 0.00261095, "statl": 0.00261095, "systh": 0.00142415, "systl": 0.00142416},
+        {"x": 3.75, "xl": 3.5, "xh": 4, "y": 0.172323, "stath": 0.00261095, "statl": 0.00261095, "systh": 0.00166152, "systl": 0.00166151},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.15998, "stath": 0.00261095, "statl": 0.00261095, "systh": 0.00237359, "systl": 0.00237359},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.126987, "stath": 0.00237358, "statl": 0.00237358, "systh": 0.00379774, "systl": 0.00427247},
+        {"x": 6.5, "xl": 6, "xh": 7, "y": 0.107286, "stath": 0.00237358, "statl": 0.00237358, "systh": 0.0040351, "systl": 0.00403511},
+        {"x": 7.5, "xl": 7, "xh": 8, "y": 0.108236, "stath": 0.00356038, "statl": 0.00356038, "systh": 0.00498454, "systl": 0.00498454},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.0882975, "stath": 0.00356039, "statl": 0.00356039, "systh": 0.00498454, "systl": 0.0052219},
+        {"x": 11, "xl": 10, "xh": 12, "y": 0.0697835, "stath": 0.0052219, "statl": 0.0052219, "systh": 0.0052219, "systl": 0.00498454},
+        {"x": 14, "xl": 12, "xh": 16, "y": 0.0640869, "stath": 0.00712077, "statl": 0.00712077, "systh": 0.0118679, "systl": 0.0118679},
+        {"x": 20, "xl": 16, "xh": 24, "y": 0.0669352, "stath": 0.01258, "statl": 0.01258, "systh": 0.0199382, "systl": 0.0199381},
+    ]
+};
+
 dataset["aprD0_v2_pT_PbPb_5TeV_CMS_cent-0-10_absy-1-2"] = {
     reference : "PLB 816 (2021) 136253",
     link : "https://arxiv.org/abs/2009.12628",
@@ -4903,8 +4934,8 @@ dataset["aprDsubs_RpA_ycm_pPb_8TeV_LHCb__pT-1-10"] = {
 
 dataset["aprDsubs_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     reference : "ALICE Preliminary",
-    link : "https://indico.cern.ch/event/1339555/contributions/6040878/attachments/2932269/5149682/HP2024_biao_v7.pdf",
-    update : "2024-09-23",
+    link : "https://indico.cern.ch/event/1334113/contributions//6350987/attachments/3046364/5382740/QM2025_charmflow_wuct_f.pdf",
+    update : "2025-04-09",
     observable : "v2",
     xtitle : "pT",
     particle : "Prompt D<sub>s</sub>",
@@ -4914,13 +4945,15 @@ dataset["aprDsubs_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     kinea : "30-50%",
     kineb : "|y| < 0.8",
     data : [
-        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.140625, "stath": 0.0178571, "statl": 0.0178571, "systh": 0.00535715, "systl": 0.00580357},
-        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.176786, "stath": 0.0165179, "statl": 0.0165179, "systh": 0.00491072, "systl": 0.00535713},
-        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.148214, "stath": 0.0200893, "statl": 0.0200893, "systh": 0.0111607, "systl": 0.0102679},
-        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.119196, "stath": 0.0236607, "statl": 0.0236607, "systh": 0.0107143, "systl": 0.0107143},
-        {"x": 7, "xl": 6, "xh": 8, "y": 0.0754464, "stath": 0.0267857, "statl": 0.0267857, "systh": 0.0116071, "systl": 0.0111607},
-        {"x": 9, "xl": 8, "xh": 10, "y": 0.0526786, "stath": 0.0473214, "statl": 0.0473214, "systh": 0.0111607, "systl": 0.0116071},
-        {"x": 11, "xl": 10, "xh": 12, "y": -0.0383929, "stath": 0.0674107, "statl": 0.0674107, "systh": 0.05625, "systl": 0.0571429},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.0522049, "stath": 0.027558, "statl": 0.027558, "systh": 0.00698652, "systl": 0.00737466},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.125175, "stath": 0.0097035, "statl": 0.0097035, "systh": 0.00743935, "systl": 0.00679246},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.147493, "stath": 0.0071159, "statl": 0.0071159, "systh": 0.00938006, "systl": 0.0097035},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.156065, "stath": 0.0083558, "statl": 0.0083558, "systh": 0.0097035, "systl": 0.00943395},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.132615, "stath": 0.0113208, "statl": 0.0113208, "systh": 0.0113208, "systl": 0.0107817},
+        {"x": 6.5, "xl": 6, "xh": 7, "y": 0.114286, "stath": 0.0153639, "statl": 0.0153639, "systh": 0.0113207, "systl": 0.0113208},
+        {"x": 7.5, "xl": 7, "xh": 8, "y": 0.0660377, "stath": 0.0150943, "statl": 0.0150943, "systh": 0.0256065, "systl": 0.0253369},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.0851752, "stath": 0.0150943, "statl": 0.0150943, "systh": 0.0253369, "systl": 0.0256065},
+        {"x": 17, "xl": 10, "xh": 24, "y": 0.0374663, "stath": 0.0150943, "statl": 0.0150943, "systh": 0.0304582, "systl": 0.0304582},
     ]
 };
 
@@ -4943,6 +4976,72 @@ dataset["aprDsubs_v2_pT_PbPb_5TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
         {"x": 10, "xl": 8, "xh": 12, "y": 0.094434, "stath": 0.042591, "statl": 0.042591, "systh": 0.0250306, "systl": 0.0119183},
         {"x": 14, "xl": 12, "xh": 16, "y": 0.1465, "stath": 0.070756, "statl": 0.070756, "systh": 0.0349984, "systl": 0.0220469},
         {"x": 20, "xl": 16, "xh": 24, "y": 0.10091, "stath": 0.090908, "statl": 0.090908, "systh": 0.0373856, "systl": 0.0320185},
+    ]
+};
+
+dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-0-10_absy-lt-2p4"] = {
+    reference : "CMS-PAS-HIN-24-006",
+    link : "https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-24-006",
+    update : "2025-04-09",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sub>s</sub>",
+    collision : "PbPb",
+    energy : "5.02 TeV",
+    collab : "CMS",
+    kinea : "0-10%",
+    kineb : "|y| < 2.4",
+    data : [
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.112, "stath": 0.074, "statl": 0.073, "systh": 0.0257, "systl": 0.0257},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.0178, "stath": 0.0218, "statl": 0.0212, "systh": 0.0069, "systl": 0.0069},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.055, "stath": 0.016, "statl": 0.016, "systh": 0.018, "systl": 0.018},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.0318, "stath": 0.01324, "statl": 0.01324, "systh": 0.0094, "systl": 0.0092},
+        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.026, "stath": 0.0289, "statl": 0.0289, "systh": 0.0125, "systl": 0.0125},
+        {"x": 30, "xl": 20, "xh": 40, "y": 0.04, "stath": 0.0257, "statl": 0.025, "systh": 0.0186, "systl": 0.0186},
+    ]
+};
+
+dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-10-30_absy-lt-2p4"] = {
+    reference : "CMS-PAS-HIN-24-006",
+    link : "https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-24-006",
+    update : "2025-04-09",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sub>s</sub>",
+    collision : "PbPb",
+    energy : "5.02 TeV",
+    collab : "CMS",
+    kinea : "10-30%",
+    kineb : "|y| < 2.4",
+    data : [
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.0903, "stath": 0.0206, "statl": 0.0197, "systh": 0.0086, "systl": 0.0077},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.084, "stath": 0.0102, "statl": 0.01, "systh": 0.0154, "systl": 0.0154},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.0733, "stath": 0.0093, "statl": 0.0092, "systh": 0.0105, "systl": 0.0105},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.0575, "stath": 0.0088, "statl": 0.0085, "systh": 0.0115, "systl": 0.0115},
+        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.038, "stath": 0.013, "statl": 0.013, "systh": 0.0086, "systl": 0.008},
+        {"x": 30, "xl": 20, "xh": 40, "y": 0.033, "stath": 0.0183, "statl": 0.0183, "systh": 0.0146, "systl": 0.014},
+    ]
+};
+
+dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-30-50_absy-lt-2p4"] = {
+    reference : "CMS-PAS-HIN-24-006",
+    link : "https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-24-006",
+    update : "2025-04-09",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sub>s</sub>",
+    collision : "PbPb",
+    energy : "5.02 TeV",
+    collab : "CMS",
+    kinea : "30-50%",
+    kineb : "|y| < 2.4",
+    data : [
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.121, "stath": 0.0225, "statl": 0.022, "systh": 0.012, "systl": 0.01102},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.1039, "stath": 0.0114, "statl": 0.0111, "systh": 0.0179, "systl": 0.0177},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.0809, "stath": 0.0114, "statl": 0.0114, "systh": 0.0194, "systl": 0.0193},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.084, "stath": 0.0115, "statl": 0.011, "systh": 0.012, "systl": 0.011},
+        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.0911, "stath": 0.02, "statl": 0.0199, "systh": 0.0081, "systl": 0.0075},
+        {"x": 30, "xl": 20, "xh": 40, "y": 0.0642, "stath": 0.0275, "statl": 0.0275, "systh": 0.0172, "systl": 0.0168},
     ]
 };
 
