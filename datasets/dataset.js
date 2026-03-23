@@ -9386,6 +9386,23 @@ dataset["bTOD0_RAA_pT_PbPb_5TeV_CMS_cent-0-100_absy-lt-1"] = {
     ]
 };
 
+dataset["bTOD0_RpA_ycm_pPb_5TeV_ALICE__pT-gt-0"] = {
+    reference : "JHEP 11 (2024) 148",
+    link : "https://arxiv.org/abs/2407.10593",
+    update : "2026-03-23",
+    observable : "RpA",
+    xtitle : "ycm",
+    particle : "(b&rarr;) D<sup>0</sup>",
+    collision : "pPb",
+    energy : "5.02 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "p<sub>T</sub> > 0 GeV",
+    data : [
+        {"x": -0.46, "xl": -0.96, "xh": 0.04, "y": 1.04, "stath": 0.1, "statl": 0.1, "systh": 0.12, "systl": 0.12},
+    ]
+};
+
 dataset["bTOD0_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     reference : "ALICE Preliminary",
     link : "https://indico.cern.ch/event/1334113/contributions//6350987/attachments/3046364/5382740/QM2025_charmflow_wuct_f.pdf",
@@ -9592,6 +9609,49 @@ dataset["bTOD0_v3_pT_PbPb_5TeV_CMS_cent-30-50_absy-lt-1"] = {
     ]
 };
 
+dataset["bTODplusmnTobTOD0_DplusmnToD0_pT_pPb_5TeV_ALICE__ycm-M0p96-0p04"] = {
+    reference : "JHEP 11 (2024) 148",
+    link : "https://arxiv.org/abs/2407.10593",
+    update : "2026-03-23",
+    observable : "DplusmnToD0",
+    xtitle : "pT",
+    particle : "(b&rarr;) D<sup>&plusmn;</sup> / (b&rarr;) D<sup>0</sup>",
+    collision : "pPb",
+    energy : "5.02 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "-0.96 < y<sub>cm</sub> < 0.04",
+    data : [
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.39726, "stath": 0.11975, "statl": 0.11975, "systh": 0.051045, "systl": 0.051045},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.44647, "stath": 0.089083, "statl": 0.089083, "systh": 0.045444, "systl": 0.045444},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.40496, "stath": 0.059325, "statl": 0.059325, "systh": 0.037022, "systl": 0.037022},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.45468, "stath": 0.06395, "statl": 0.06395, "systh": 0.040625, "systl": 0.040625},
+        {"x": 6.5, "xl": 6, "xh": 7, "y": 0.43416, "stath": 0.069769, "statl": 0.069769, "systh": 0.038573, "systl": 0.038573},
+        {"x": 7.5, "xl": 7, "xh": 8, "y": 0.45049, "stath": 0.078296, "statl": 0.078296, "systh": 0.040081, "systl": 0.040081},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.5994, "stath": 0.096562, "statl": 0.096562, "systh": 0.055488, "systl": 0.055488},
+        {"x": 11, "xl": 10, "xh": 12, "y": 0.52278, "stath": 0.10689, "statl": 0.10689, "systh": 0.05601, "systl": 0.05601},
+        {"x": 14, "xl": 12, "xh": 16, "y": 0.73218, "stath": 0.18256, "statl": 0.18256, "systh": 0.079471, "systl": 0.079471},
+        {"x": 20, "xl": 16, "xh": 24, "y": 0.45881, "stath": 0.181, "statl": 0.181, "systh": 0.061986, "systl": 0.061986},
+    ]
+};
+
+dataset["bTODplusmn_RpA_ycm_pPb_5TeV_ALICE__pT-gt-0"] = {
+    reference : "JHEP 11 (2024) 148",
+    link : "https://arxiv.org/abs/2407.10593",
+    update : "2026-03-23",
+    observable : "RpA",
+    xtitle : "ycm",
+    particle : "(b&rarr;) D<sup>&plusmn;</sup>",
+    collision : "pPb",
+    energy : "5.02 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "p<sub>T</sub> > 0 GeV",
+    data : [
+        {"x": -0.46, "xl": -0.96, "xh": 0.04, "y": 0.86, "stath": 0.19, "statl": 0.19, "systh": 0.11, "systl": 0.11},
+    ]
+};
+
 dataset["bTODsubsToaprDsubs_DoubleRatio_pT_PbPb_5TeV_ALICE_cent-0-10_absy-lt-0p5"] = {
     reference : "PLB 846 (2023) 137561",
     link : "https://arxiv.org/abs/2204.10386",
@@ -9720,6 +9780,32 @@ dataset["bTODsubs_RAA_pT_PbPb_5TeV_ALICE_cent-30-50_absy-lt-0p5"] = {
         {"x": 10, "xl": 8, "xh": 12, "y": 0.37964, "stath": 0.1254, "statl": 0.1254, "systh": 0.064819, "systl": 0.064819},
         {"x": 14, "xl": 12, "xh": 16, "y": 0.48503, "stath": 0.087255, "statl": 0.087255, "systh": 0.17319, "systl": 0.17319},
         {"x": 20, "xl": 16, "xh": 24, "y": 0.37364, "stath": 0.11706, "statl": 0.11706, "systh": 0.13279, "systl": 0.13279},
+    ]
+};
+
+dataset["bTOD_RpA_pT_pPb_5TeV_ALICE__ycm-M0p96-0p04"] = {
+    reference : "JHEP 11 (2024) 148",
+    link : "https://arxiv.org/abs/2407.10593",
+    update : "2026-03-23",
+    observable : "RpA",
+    xtitle : "pT",
+    particle : "(b&rarr;) D",
+    collision : "pPb",
+    energy : "5.02 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "-0.96 < y<sub>cm</sub> < 0.04",
+    data : [
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 1.2461, "stath": 0.27541, "statl": 0.27541, "systh": 0.19834, "systl": 0.19834},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.95143, "stath": 0.14589, "statl": 0.14589, "systh": 0.098157, "systl": 0.098157},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.90961, "stath": 0.1215, "statl": 0.1215, "systh": 0.08156, "systl": 0.08156},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.82146, "stath": 0.098998, "statl": 0.098998, "systh": 0.070224, "systl": 0.070224},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.91833, "stath": 0.13733, "statl": 0.13733, "systh": 0.076138, "systl": 0.076138},
+        {"x": 7, "xl": 6, "xh": 8, "y": 1.046, "stath": 0.13839, "statl": 0.13839, "systh": 0.10072, "systl": 0.10072},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.82771, "stath": 0.13391, "statl": 0.13391, "systh": 0.077285, "systl": 0.077285},
+        {"x": 11, "xl": 10, "xh": 12, "y": 0.88889, "stath": 0.19955, "statl": 0.19955, "systh": 0.089924, "systl": 0.089924},
+        {"x": 14, "xl": 12, "xh": 16, "y": 1.2469, "stath": 0.47319, "statl": 0.47319, "systh": 0.14992, "systl": 0.14992},
+        {"x": 20, "xl": 16, "xh": 24, "y": 1.1959, "stath": 0.93726, "statl": 0.93726, "systh": 0.21471, "systl": 0.21471},
     ]
 };
 
@@ -11472,6 +11558,43 @@ dataset["bTOJpsi_v3_pT_PbPb_5TeV_CMS_cent-10-60_absy-lt-2p4"] = {
     ]
 };
 
+dataset["bTOLambdacTobTOD0_DoubleRatio_ycm_pPb_5TeV_ALICE__pT-2-24"] = {
+    reference : "JHEP 11 (2024) 148",
+    link : "https://arxiv.org/abs/2407.10593",
+    update : "2026-03-23",
+    observable : "DoubleRatio",
+    xtitle : "ycm",
+    particle : "(b&rarr;) &Lambda;<sub>c</sub> / (b&rarr;) D<sup>0</sup>",
+    collision : "pPb",
+    energy : "5.02 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "2 < p<sub>T</sub> < 24 GeV",
+    data : [
+        {"x": -0.46, "xl": -0.96, "xh": 0.04, "y": 1.4335, "stath": 0.43122, "statl": 0.43122, "systh": 0.26091, "systl": 0.26091},
+    ]
+};
+
+dataset["bTOLambdacTobTOD0_LambdacToD0_pT_pPb_5TeV_ALICE__ycm-M0p96-0p04"] = {
+    reference : "JHEP 11 (2024) 148",
+    link : "https://arxiv.org/abs/2407.10593",
+    update : "2026-03-23",
+    observable : "LambdacToD0",
+    xtitle : "pT",
+    particle : "(b&rarr;) &Lambda;<sub>c</sub> / (b&rarr;) D<sup>0</sup>",
+    collision : "pPb",
+    energy : "5.02 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "-0.96 < y<sub>cm</sub> < 0.04",
+    data : [
+        {"x": 3, "xl": 2, "xh": 4, "y": 0.92815, "stath": 0.29628, "statl": 0.29628, "systh": 0.14915, "systl": 0.14915},
+        {"x": 6, "xl": 4, "xh": 8, "y": 0.46379, "stath": 0.1009, "statl": 0.1009, "systh": 0.084382, "systl": 0.084382},
+        {"x": 10, "xl": 8, "xh": 12, "y": 0.456, "stath": 0.13126, "statl": 0.13126, "systh": 0.081691, "systl": 0.081691},
+        {"x": 18, "xl": 12, "xh": 24, "y": 0.25089, "stath": 0.1892, "statl": 0.1892, "systh": 0.084803, "systl": 0.084803},
+    ]
+};
+
 dataset["bTOLambdacTobTOD0_LcToD0_pT_pp_13TeV_ALICE__absy-lt-0p5"] = {
     reference : "PRD 108 (2023) 112003",
     link : "https://arxiv.org/abs/2308.04873",
@@ -11490,6 +11613,26 @@ dataset["bTOLambdacTobTOD0_LcToD0_pT_pp_13TeV_ALICE__absy-lt-0p5"] = {
         {"x": 7, "xl": 6, "xh": 8, "y": 0.289, "stath": 0.052, "statl": 0.052, "systh": 0.025, "systl": 0.025},
         {"x": 10, "xl": 8, "xh": 12, "y": 0.324, "stath": 0.044, "statl": 0.044, "systh": 0.031, "systl": 0.031},
         {"x": 18, "xl": 12, "xh": 24, "y": 0.332, "stath": 0.122, "statl": 0.122, "systh": 0.052, "systl": 0.052},
+    ]
+};
+
+dataset["bTOLambdac_RpA_pT_pPb_5TeV_ALICE__ycm-M0p96-0p04"] = {
+    reference : "JHEP 11 (2024) 148",
+    link : "https://arxiv.org/abs/2407.10593",
+    update : "2026-03-23",
+    observable : "RpA",
+    xtitle : "pT",
+    particle : "(b&rarr;) &Lambda;<sub>c</sub>",
+    collision : "pPb",
+    energy : "5.02 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "-0.96 < y<sub>cm</sub> < 0.04",
+    data : [
+        {"x": 3, "xl": 2, "xh": 4, "y": 1.3844, "stath": 0.48308, "statl": 0.48308, "systh": 0.33709, "systl": 0.33709},
+        {"x": 6, "xl": 4, "xh": 8, "y": 1.166, "stath": 0.28077, "statl": 0.28077, "systh": 0.29742, "systl": 0.29742},
+        {"x": 10, "xl": 8, "xh": 12, "y": 1.0453, "stath": 0.30963, "statl": 0.30963, "systh": 0.21737, "systl": 0.21737},
+        {"x": 18, "xl": 12, "xh": 24, "y": 0.64211, "stath": 0.52164, "statl": 0.52164, "systh": 0.12663, "systl": 0.12663},
     ]
 };
 
