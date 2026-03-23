@@ -1693,7 +1693,7 @@ dataset["aprDplusmn_RpA_pT_pPb_5TeV_LHCb__ycm-M4-M2p5"] = {
 };
 
 dataset["aprDplusmn_RpA_pT_pPb_8TeV_LHCb__ycm-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-06-25",
     observable : "RpA",
@@ -1718,7 +1718,7 @@ dataset["aprDplusmn_RpA_pT_pPb_8TeV_LHCb__ycm-2-4"] = {
 };
 
 dataset["aprDplusmn_RpA_pT_pPb_8TeV_LHCb__ycm-M4p5-M2p5"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-06-25",
     observable : "RpA",
@@ -1767,7 +1767,7 @@ dataset["aprDplusmn_RpA_ycm_pPb_5TeV_LHCb__pT-lt-10"] = {
 };
 
 dataset["aprDplusmn_RpA_ycm_pPb_8TeV_LHCb__pT-1-10"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-06-25",
     observable : "RpA",
@@ -2873,7 +2873,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_5TeV_LHCb__ycm-M5-M2p5"] = {
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-1p8-2p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -2893,7 +2893,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-1p8-2p
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-2p3-2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -2913,7 +2913,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-2p3-2p
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-2p8-3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -2933,7 +2933,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-2p8-3p
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-M3p3-M2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -2953,7 +2953,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-M3p3-M
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-M3p8-M3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -2973,7 +2973,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-M3p8-M
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-M4p3-M3p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -2993,7 +2993,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-10-60_ycm-M4p3-M
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-1p8-2p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3013,7 +3013,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-1p8-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-2p3-2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3033,7 +3033,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-2p3-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-2p8-3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3053,7 +3053,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-2p8-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-M3p3-M2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3073,7 +3073,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-M3p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-M3p8-M3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3093,7 +3093,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-M3p8
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-M4p3-M3p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3113,7 +3113,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-100-120_ycm-M4p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-1p8-2p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3133,7 +3133,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-1p8-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-2p3-2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3153,7 +3153,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-2p3-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-2p8-3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3173,7 +3173,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-2p8-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-M3p3-M2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3193,7 +3193,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-M3p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-M3p8-M3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3213,7 +3213,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-M3p8
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-M4p3-M3p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3233,7 +3233,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-120-140_ycm-M4p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-180_ycm-M3p3-M2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3253,7 +3253,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-180_ycm-M3p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-180_ycm-M3p8-M3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3273,7 +3273,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-180_ycm-M3p8
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-180_ycm-M4p3-M3p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3293,7 +3293,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-180_ycm-M4p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-200_ycm-1p8-2p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3313,7 +3313,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-200_ycm-1p8-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-200_ycm-2p3-2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3333,7 +3333,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-200_ycm-2p3-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-200_ycm-2p8-3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3353,7 +3353,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-140-200_ycm-2p8-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-180-250_ycm-M3p3-M2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3373,7 +3373,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-180-250_ycm-M3p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-180-250_ycm-M3p8-M3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3393,7 +3393,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-180-250_ycm-M3p8
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-180-250_ycm-M4p3-M3p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3413,7 +3413,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-180-250_ycm-M4p3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-1p8-2p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3433,7 +3433,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-1p8-2p
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-2p3-2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3453,7 +3453,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-2p3-2p
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-2p8-3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3473,7 +3473,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-2p8-3p
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-M3p3-M2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3493,7 +3493,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-M3p3-M
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-M3p8-M3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3513,7 +3513,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-M3p8-M
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-M4p3-M3p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3533,7 +3533,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-60-80_ycm-M4p3-M
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-1p8-2p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3553,7 +3553,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-1p8-2
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-2p3-2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3573,7 +3573,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-2p3-2
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-2p8-3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3593,7 +3593,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-2p8-3
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-M3p3-M2p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3613,7 +3613,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-M3p3-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-M3p8-M3p3"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -3633,7 +3633,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-M3p8-
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_pT_pPb_8TeV_LHCb_Ntrk-80-100_ycm-M4p3-M3p8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4004,7 +4004,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_5TeV_LHCb__pT-lt-10"] = {
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4026,7 +4026,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-2-4"] 
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4048,7 +4048,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-4-6"] 
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4070,7 +4070,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-6-8"] 
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4092,7 +4092,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-10-60_pT-8-12"]
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4114,7 +4114,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-2-4"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4136,7 +4136,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-4-6"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4157,7 +4157,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-6-8"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4179,7 +4179,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-100-120_pT-8-12
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4201,7 +4201,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-2-4"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4223,7 +4223,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-4-6"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4245,7 +4245,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-6-8"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4267,7 +4267,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-120-140_pT-8-12
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4286,7 +4286,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-2-4"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4305,7 +4305,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-4-6"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4324,7 +4324,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-6-8"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4343,7 +4343,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-180_pT-8-12
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4362,7 +4362,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-2-4"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4381,7 +4381,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-4-6"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4400,7 +4400,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-6-8"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4419,7 +4419,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-140-200_pT-8-12
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4438,7 +4438,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-2-4"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4457,7 +4457,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-4-6"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4476,7 +4476,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-6-8"
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4495,7 +4495,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-180-250_pT-8-12
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4517,7 +4517,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-2-4"] 
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4539,7 +4539,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-4-6"] 
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4561,7 +4561,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-6-8"] 
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4583,7 +4583,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-60-80_pT-8-12"]
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-80-100_pT-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4605,7 +4605,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-80-100_pT-2-4"]
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-80-100_pT-4-6"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4627,7 +4627,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-80-100_pT-4-6"]
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-80-100_pT-6-8"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4649,7 +4649,7 @@ dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-80-100_pT-6-8"]
 };
 
 dataset["aprDsubsToDplusmn_DsubsToDplusmn_ycm_pPb_8TeV_LHCb_Ntrk-80-100_pT-8-12"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-07-11",
     observable : "DsubsToDplusmn",
@@ -4835,7 +4835,7 @@ dataset["aprDsubs_RpA_pT_pPb_5TeV_LHCb__ycm-M4-M2p5"] = {
 };
 
 dataset["aprDsubs_RpA_pT_pPb_8TeV_LHCb__ycm-2-4"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-06-25",
     observable : "RpA",
@@ -4860,7 +4860,7 @@ dataset["aprDsubs_RpA_pT_pPb_8TeV_LHCb__ycm-2-4"] = {
 };
 
 dataset["aprDsubs_RpA_pT_pPb_8TeV_LHCb__ycm-M4p5-M2p5"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-06-25",
     observable : "RpA",
@@ -4909,7 +4909,7 @@ dataset["aprDsubs_RpA_ycm_pPb_5TeV_LHCb__pT-lt-10"] = {
 };
 
 dataset["aprDsubs_RpA_ycm_pPb_8TeV_LHCb__pT-1-10"] = {
-    reference : "arXiv:2311.08490",
+    reference : "PRD 110 (2024) L031105",
     link : "https://arxiv.org/abs/2311.08490",
     update : "2024-06-25",
     observable : "RpA",
@@ -13302,9 +13302,9 @@ dataset["incJpsi_RAA_Npart_AuAu_39GeV_PHENIX_pT-gt-0_absy-1p2-2p2"] = {
 };
 
 dataset["incJpsi_RAA_Npart_AuAu_54p4GeV_STAR_pT-gt-0p2_absy-lt-1"] = {
-    reference : "STAR Preliminary",
-    link : "https://indico.cern.ch/event/895086/contributions/4724888/attachments/2423105/4147724/qm2022_zyzhang.pdf#page=9",
-    update : "2022-04-05",
+    reference : "arXiv:2506.20962",
+    link : "https://arxiv.org/abs/2506.20962",
+    update : "2026-03-23",
     observable : "RAA",
     xtitle : "Npart",
     particle : "Inclusive J/&psi;",
@@ -13314,9 +13314,9 @@ dataset["incJpsi_RAA_Npart_AuAu_54p4GeV_STAR_pT-gt-0p2_absy-lt-1"] = {
     kinea : "p<sub>T</sub> > 0.2 GeV",
     kineb : "|y| < 1",
     data : [
-        {"x": 59.8, "xl": 59.8, "xh": 59.8, "y": 0.467089, "stath": 0.001228, "statl": 0.001228, "systh": 0.0466647, "systl": 0.0466647},
-        {"x": 137.9, "xl": 137.9, "xh": 137.9, "y": 0.37376, "stath": 0, "statl": 0, "systh": 0.0380686, "systl": 0.0380686},
-        {"x": 275, "xl": 275, "xh": 275, "y": 0.304991, "stath": 0, "statl": 0, "systh": 0.0343845, "systl": 0.0331565},
+        {"x": 60.1, "xl": 60.1, "xh": 60.1, "y": 0.437208, "stath": 0.0227416, "statl": 0.0227416, "systh": 0.0596968, "systl": 0.0625395},
+        {"x": 138.1, "xl": 138.1, "xh": 138.1, "y": 0.348136, "stath": 0.000947565, "statl": 0.000947565, "systh": 0.0492735, "systl": 0.048326},
+        {"x": 274.9, "xl": 274.9, "xh": 274.9, "y": 0.287492, "stath": 0, "statl": 0, "systh": 0.0454833, "systl": 0.0445357},
     ]
 };
 
@@ -14199,9 +14199,9 @@ dataset["incJpsi_RAA_pT_AuAu_200GeV_STAR_cent-60-80_absy-lt-0p5"] = {
 };
 
 dataset["incJpsi_RAA_pT_AuAu_54p4GeV_STAR_cent-0-20_absy-lt-1"] = {
-    reference : "STAR Preliminary",
-    link : "https://indico.cern.ch/event/895086/contributions/4724888/attachments/2423105/4147724/qm2022_zyzhang.pdf#page=6",
-    update : "2022-04-05",
+    reference : "arXiv:2506.20962",
+    link : "https://arxiv.org/abs/2506.20962",
+    update : "2026-03-23",
     observable : "RAA",
     xtitle : "pT",
     particle : "Inclusive J/&psi;",
@@ -14211,17 +14211,37 @@ dataset["incJpsi_RAA_pT_AuAu_54p4GeV_STAR_cent-0-20_absy-lt-1"] = {
     kinea : "0-20%",
     kineb : "|y| < 1",
     data : [
-        {"x": 0.6, "xl": 0.2, "xh": 1, "y": 0.212361, "stath": 0.022695, "statl": 0.022695, "systh": 0.0291793, "systl": 0.0291793},
-        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.296657, "stath": 0.0275582, "statl": 0.0275582, "systh": 0.0316109, "systl": 0.0324215},
-        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.493617, "stath": 0.0583586, "statl": 0.0583586, "systh": 0.0688956, "systl": 0.0697062},
-        {"x": 4, "xl": 3, "xh": 5, "y": 0.484701, "stath": 0.0948328, "statl": 0.0948328, "systh": 0.089159, "systl": 0.0851064},
+        {"x": 0.6, "xl": 0.2, "xh": 1, "y": 0.200236, "stath": 0, "statl": 0, "systh": 0.0345583, "systl": 0.0337154},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.28031, "stath": 0.0278153, "statl": 0.0278153, "systh": 0.0429872, "systl": 0.0413014},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.465745, "stath": 0.059002, "statl": 0.059002, "systh": 0.0792313, "systl": 0.0792313},
+        {"x": 4, "xl": 3, "xh": 5, "y": 0.453102, "stath": 0.0969319, "statl": 0.0969319, "systh": 0.0927175, "systl": 0.088503},
+    ]
+};
+
+dataset["incJpsi_RAA_pT_AuAu_54p4GeV_STAR_cent-0-60_absy-lt-1"] = {
+    reference : "arXiv:2506.20962",
+    link : "https://arxiv.org/abs/2506.20962",
+    update : "2026-03-23",
+    observable : "RAA",
+    xtitle : "pT",
+    particle : "Inclusive J/&psi;",
+    collision : "AuAu",
+    energy : "54.4 GeV",
+    collab : "STAR",
+    kinea : "0-60%",
+    kineb : "|y| < 1",
+    data : [
+        {"x": 0.6, "xl": 0.2, "xh": 1, "y": 0.229422, "stath": 0, "statl": 0, "systh": 0.0353734, "systl": 0.0363841},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.310275, "stath": 0.021224, "statl": 0.021224, "systh": 0.04548, "systl": 0.0424481},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.510387, "stath": 0.0404267, "statl": 0.0404267, "systh": 0.0919708, "systl": 0.0919708},
+        {"x": 4, "xl": 3, "xh": 5, "y": 0.482089, "stath": 0.0687254, "statl": 0.0687254, "systh": 0.0818641, "systl": 0.0818641},
     ]
 };
 
 dataset["incJpsi_RAA_pT_AuAu_54p4GeV_STAR_cent-20-40_absy-lt-1"] = {
-    reference : "STAR Preliminary",
-    link : "https://indico.cern.ch/event/895086/contributions/4724888/attachments/2423105/4147724/qm2022_zyzhang.pdf#page=6",
-    update : "2022-04-05",
+    reference : "arXiv:2506.20962",
+    link : "https://arxiv.org/abs/2506.20962",
+    update : "2026-03-23",
     observable : "RAA",
     xtitle : "pT",
     particle : "Inclusive J/&psi;",
@@ -14231,17 +14251,17 @@ dataset["incJpsi_RAA_pT_AuAu_54p4GeV_STAR_cent-20-40_absy-lt-1"] = {
     kinea : "20-40%",
     kineb : "|y| < 1",
     data : [
-        {"x": 0.6, "xl": 0.2, "xh": 1, "y": 0.274066, "stath": 0.0217822, "statl": 0.0217822, "systh": 0.0338835, "systl": 0.0338835},
-        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.353935, "stath": 0.0314632, "statl": 0.0314632, "systh": 0.0314632, "systl": 0.0314633},
-        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.591119, "stath": 0.058086, "statl": 0.058086, "systh": 0.0943897, "systl": 0.09681},
-        {"x": 4, "xl": 3, "xh": 5, "y": 0.574177, "stath": 0.104071, "statl": 0.104071, "systh": 0.0822885, "systl": 0.0798683},
+        {"x": 0.6, "xl": 0.2, "xh": 1, "y": 0.254181, "stath": 0, "statl": 0, "systh": 0.0404585, "systl": 0.0387728},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.336784, "stath": 0.0286581, "statl": 0.0286581, "systh": 0.0438301, "systl": 0.0429872},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.550034, "stath": 0.059002, "statl": 0.059002, "systh": 0.103675, "systl": 0.104518},
+        {"x": 4, "xl": 3, "xh": 5, "y": 0.516318, "stath": 0.101146, "statl": 0.101146, "systh": 0.0885031, "systl": 0.0868173},
     ]
 };
 
 dataset["incJpsi_RAA_pT_AuAu_54p4GeV_STAR_cent-40-60_absy-lt-1"] = {
-    reference : "STAR Preliminary",
-    link : "https://indico.cern.ch/event/895086/contributions/4724888/attachments/2423105/4147724/qm2022_zyzhang.pdf#page=6",
-    update : "2022-04-05",
+    reference : "arXiv:2506.20962",
+    link : "https://arxiv.org/abs/2506.20962",
+    update : "2026-03-23",
     observable : "RAA",
     xtitle : "pT",
     particle : "Inclusive J/&psi;",
@@ -14251,10 +14271,10 @@ dataset["incJpsi_RAA_pT_AuAu_54p4GeV_STAR_cent-40-60_absy-lt-1"] = {
     kinea : "40-60%",
     kineb : "|y| < 1",
     data : [
-        {"x": 0.6, "xl": 0.2, "xh": 1, "y": 0.367076, "stath": 0.0280122, "statl": 0.0280122, "systh": 0.0396839, "systl": 0.0408511},
-        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.469787, "stath": 0.033848, "statl": 0.033848, "systh": 0.0431854, "systl": 0.0431854},
-        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.674043, "stath": 0.0758662, "statl": 0.0758662, "systh": 0.0875379, "systl": 0.087538},
-        {"x": 4, "xl": 3, "xh": 5, "y": 0.59234, "stath": 0.130723, "statl": 0.130723, "systh": 0.0957083, "systl": 0.0933738},
+        {"x": 0.6, "xl": 0.2, "xh": 1, "y": 0.342684, "stath": 0.029501, "statl": 0.029501, "systh": 0.0522589, "systl": 0.0505732},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.439616, "stath": 0.0328726, "statl": 0.0328726, "systh": 0.0556305, "systl": 0.059002},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.630951, "stath": 0.0792313, "statl": 0.0792313, "systh": 0.102832, "systl": 0.0986176},
+        {"x": 4, "xl": 3, "xh": 5, "y": 0.538233, "stath": 0.128962, "statl": 0.128962, "systh": 0.103675, "systl": 0.101146},
     ]
 };
 
