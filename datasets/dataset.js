@@ -5053,9 +5053,9 @@ dataset["aprDsubs_v2_pT_PbPb_5TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
 };
 
 dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-0-10_absy-lt-2p4"] = {
-    reference : "CMS-PAS-HIN-24-006",
-    link : "https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-24-006",
-    update : "2025-04-09",
+    reference : "arXiv:2602.14221",
+    link : "https://arxiv.org/abs/2602.14221",
+    update : "2026-03-23",
     observable : "v2",
     xtitle : "pT",
     particle : "Prompt D<sub>s</sub>",
@@ -5065,19 +5065,20 @@ dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-0-10_absy-lt-2p4"] = {
     kinea : "0-10%",
     kineb : "|y| < 2.4",
     data : [
-        {"x": 5, "xl": 4, "xh": 6, "y": 0.112, "stath": 0.074, "statl": 0.073, "systh": 0.0257, "systl": 0.0257},
-        {"x": 7, "xl": 6, "xh": 8, "y": 0.0178, "stath": 0.0218, "statl": 0.0212, "systh": 0.0069, "systl": 0.0069},
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.112, "stath": 0.073, "statl": 0.073, "systh": 0.026, "systl": 0.026},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.0178, "stath": 0.0218, "statl": 0.0218, "systh": 0.0069, "systl": 0.0069},
         {"x": 9, "xl": 8, "xh": 10, "y": 0.055, "stath": 0.016, "statl": 0.016, "systh": 0.018, "systl": 0.018},
-        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.0318, "stath": 0.01324, "statl": 0.01324, "systh": 0.0094, "systl": 0.0092},
-        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.026, "stath": 0.0289, "statl": 0.0289, "systh": 0.0125, "systl": 0.0125},
-        {"x": 30, "xl": 20, "xh": 40, "y": 0.04, "stath": 0.0257, "statl": 0.025, "systh": 0.0186, "systl": 0.0186},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.0318, "stath": 0.0136, "statl": 0.0136, "systh": 0.0093, "systl": 0.0093},
+        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.026, "stath": 0.029, "statl": 0.029, "systh": 0.013, "systl": 0.013},
+        {"x": 30, "xl": 20, "xh": 40, "y": 0.04, "stath": 0.026, "statl": 0.026, "systh": 0.019, "systl": 0.019},
+        {"x": 30, "xl": 30, "xh": 30, "y": 0.04, "stath": 0.026, "statl": 0.026, "systh": 0, "systl": 0},
     ]
 };
 
 dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-10-30_absy-lt-2p4"] = {
-    reference : "CMS-PAS-HIN-24-006",
-    link : "https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-24-006",
-    update : "2025-04-09",
+    reference : "arXiv:2602.14221",
+    link : "https://arxiv.org/abs/2602.14221",
+    update : "2026-03-23",
     observable : "v2",
     xtitle : "pT",
     particle : "Prompt D<sub>s</sub>",
@@ -5087,19 +5088,19 @@ dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-10-30_absy-lt-2p4"] = {
     kinea : "10-30%",
     kineb : "|y| < 2.4",
     data : [
-        {"x": 5, "xl": 4, "xh": 6, "y": 0.0903, "stath": 0.0206, "statl": 0.0197, "systh": 0.0086, "systl": 0.0077},
-        {"x": 7, "xl": 6, "xh": 8, "y": 0.084, "stath": 0.0102, "statl": 0.01, "systh": 0.0154, "systl": 0.0154},
-        {"x": 9, "xl": 8, "xh": 10, "y": 0.0733, "stath": 0.0093, "statl": 0.0092, "systh": 0.0105, "systl": 0.0105},
-        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.0575, "stath": 0.0088, "statl": 0.0085, "systh": 0.0115, "systl": 0.0115},
-        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.038, "stath": 0.013, "statl": 0.013, "systh": 0.0086, "systl": 0.008},
-        {"x": 30, "xl": 20, "xh": 40, "y": 0.033, "stath": 0.0183, "statl": 0.0183, "systh": 0.0146, "systl": 0.014},
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.0903, "stath": 0.0206, "statl": 0.0206, "systh": 0.0086, "systl": 0.0086},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.084, "stath": 0.01, "statl": 0.01, "systh": 0.015, "systl": 0.015},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.0733, "stath": 0.0092, "statl": 0.0092, "systh": 0.0105, "systl": 0.0105},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.0575, "stath": 0.0088, "statl": 0.0088, "systh": 0.0115, "systl": 0.0115},
+        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.038, "stath": 0.0128, "statl": 0.0128, "systh": 0.0085, "systl": 0.0085},
+        {"x": 30, "xl": 20, "xh": 40, "y": 0.033, "stath": 0.018, "statl": 0.018, "systh": 0.015, "systl": 0.015},
     ]
 };
 
 dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-30-50_absy-lt-2p4"] = {
-    reference : "CMS-PAS-HIN-24-006",
-    link : "https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-24-006",
-    update : "2025-04-09",
+    reference : "arXiv:2602.14221",
+    link : "https://arxiv.org/abs/2602.14221",
+    update : "2026-03-23",
     observable : "v2",
     xtitle : "pT",
     particle : "Prompt D<sub>s</sub>",
@@ -5109,12 +5110,33 @@ dataset["aprDsubs_v2_pT_PbPb_5TeV_CMS_cent-30-50_absy-lt-2p4"] = {
     kinea : "30-50%",
     kineb : "|y| < 2.4",
     data : [
-        {"x": 5, "xl": 4, "xh": 6, "y": 0.121, "stath": 0.0225, "statl": 0.022, "systh": 0.012, "systl": 0.01102},
-        {"x": 7, "xl": 6, "xh": 8, "y": 0.1039, "stath": 0.0114, "statl": 0.0111, "systh": 0.0179, "systl": 0.0177},
-        {"x": 9, "xl": 8, "xh": 10, "y": 0.0809, "stath": 0.0114, "statl": 0.0114, "systh": 0.0194, "systl": 0.0193},
-        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.084, "stath": 0.0115, "statl": 0.011, "systh": 0.012, "systl": 0.011},
-        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.0911, "stath": 0.02, "statl": 0.0199, "systh": 0.0081, "systl": 0.0075},
-        {"x": 30, "xl": 20, "xh": 40, "y": 0.0642, "stath": 0.0275, "statl": 0.0275, "systh": 0.0172, "systl": 0.0168},
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.121, "stath": 0.023, "statl": 0.023, "systh": 0.013, "systl": 0.013},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.104, "stath": 0.011, "statl": 0.011, "systh": 0.018, "systl": 0.018},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.081, "stath": 0.011, "statl": 0.011, "systh": 0.019, "systl": 0.019},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.084, "stath": 0.012, "statl": 0.012, "systh": 0.012, "systl": 0.012},
+        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.0911, "stath": 0.0206, "statl": 0.0206, "systh": 0.0075, "systl": 0.0075},
+        {"x": 30, "xl": 20, "xh": 40, "y": 0.064, "stath": 0.028, "statl": 0.028, "systh": 0.017, "systl": 0.017},
+    ]
+};
+
+dataset["aprDsubs_v3_pT_PbPb_5TeV_CMS_cent-10-30_absy-lt-2p4"] = {
+    reference : "arXiv:2602.14221",
+    link : "https://arxiv.org/abs/2602.14221",
+    update : "2026-03-23",
+    observable : "v3",
+    xtitle : "pT",
+    particle : "Prompt D<sub>s</sub>",
+    collision : "PbPb",
+    energy : "5.02 TeV",
+    collab : "CMS",
+    kinea : "10-30%",
+    kineb : "|y| < 2.4",
+    data : [
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.089, "stath": 0.033, "statl": 0.033, "systh": 0.012, "systl": 0.012},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.0281, "stath": 0.0163, "statl": 0.0163, "systh": 0.008, "systl": 0.008},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.019, "stath": 0.015, "statl": 0.015, "systh": 0.013, "systl": 0.013},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.021, "stath": 0.014, "statl": 0.014, "systh": 0.014, "systl": 0.014},
+        {"x": 17.5, "xl": 15, "xh": 20, "y": 0.013, "stath": 0.021, "statl": 0.021, "systh": 0.011, "systl": 0.011},
     ]
 };
 
