@@ -721,6 +721,33 @@ dataset["aprD0_v2_cent_PbPb_5TeV_CMS_pT-2-8_absy-lt-1"] = {
     ]
 };
 
+dataset["aprD0_v2_pT_OO_5p36TeV_ALICE_cent-0-20_absy-lt-0p8"] = {
+    reference : "ALICE Preliminary",
+    link : "https://indico.global/event/13943/contributions//143539",
+    update : "2026-03-23",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sup>0</sup>",
+    collision : "OO",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "0-20%",
+    kineb : "|y| < 0.8",
+    data : [
+        {"x": 0.5, "xl": 0, "xh": 1, "y": 0.036, "stath": 0.0262857, "statl": 0.0262857, "systh": 0.00971429, "systl": 0.0100952},
+        {"x": 1.25, "xl": 1, "xh": 1.5, "y": 0.0380952, "stath": 0.0118095, "statl": 0.0118095, "systh": 0.00590476, "systl": 0.00628572},
+        {"x": 1.75, "xl": 1.5, "xh": 2, "y": 0.0592381, "stath": 0.008, "statl": 0.008, "systh": 0.00514286, "systl": 0.00514286},
+        {"x": 2.25, "xl": 2, "xh": 2.5, "y": 0.0845714, "stath": 0.0072381, "statl": 0.0072381, "systh": 0.0032381, "systl": 0.00304762},
+        {"x": 2.75, "xl": 2.5, "xh": 3, "y": 0.0868571, "stath": 0.00742857, "statl": 0.00742857, "systh": 0.004, "systl": 0.004},
+        {"x": 3.25, "xl": 3, "xh": 3.5, "y": 0.0992381, "stath": 0.00780952, "statl": 0.00780952, "systh": 0.00514285, "systl": 0.00514286},
+        {"x": 3.75, "xl": 3.5, "xh": 4, "y": 0.0914286, "stath": 0.00857143, "statl": 0.00857143, "systh": 0.0047619, "systl": 0.00514285},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.0868571, "stath": 0.00742857, "statl": 0.00742857, "systh": 0.00514286, "systl": 0.00514285},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.0847619, "stath": 0.00990476, "statl": 0.00990476, "systh": 0.00990476, "systl": 0.00990476},
+        {"x": 6.5, "xl": 6, "xh": 7, "y": 0.0748571, "stath": 0.0131429, "statl": 0.0131429, "systh": 0.0201905, "systl": 0.02},
+        {"x": 7.5, "xl": 5, "xh": 8, "y": 0.0672381, "stath": 0.0169524, "statl": 0.0169524, "systh": 0.0198095, "systl": 0.0201905},
+    ]
+};
+
 dataset["aprD0_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     reference : "ALICE Preliminary",
     link : "https://indico.cern.ch/event/1334113/contributions//6350987/attachments/3046364/5382740/QM2025_charmflow_wuct_f.pdf",
@@ -1787,6 +1814,30 @@ dataset["aprDplusmn_RpA_ycm_pPb_8TeV_LHCb__pT-1-10"] = {
         {"x": 2.75, "xl": 2.5, "xh": 3, "y": 0.704, "stath": 0.002, "statl": 0.002, "systh": 0.053, "systl": 0.053},
         {"x": 3.25, "xl": 3, "xh": 3.5, "y": 0.649, "stath": 0.002, "statl": 0.002, "systh": 0.045, "systl": 0.045},
         {"x": 3.75, "xl": 3.5, "xh": 4, "y": 0.591, "stath": 0.003, "statl": 0.003, "systh": 0.055, "systl": 0.055},
+    ]
+};
+
+dataset["aprDplusmn_v2_pT_OO_5p36TeV_ALICE_cent-0-20_absy-lt-0p8"] = {
+    reference : "ALICE Preliminary",
+    link : "https://indico.global/event/13943/contributions//143539",
+    update : "2026-03-23",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sup>&plusmn;</sup>",
+    collision : "OO",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "0-20%",
+    kineb : "|y| < 0.8",
+    data : [
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.052381, "stath": 0.0161905, "statl": 0.0161905, "systh": 0.0102857, "systl": 0.00990476},
+        {"x": 2.25, "xl": 2, "xh": 2.5, "y": 0.0794286, "stath": 0.0148571, "statl": 0.0148571, "systh": 0.00971429, "systl": 0.0100952},
+        {"x": 2.75, "xl": 2.5, "xh": 3, "y": 0.0986667, "stath": 0.0114286, "statl": 0.0114286, "systh": 0.00628571, "systl": 0.00590476},
+        {"x": 3.25, "xl": 3, "xh": 3.5, "y": 0.104381, "stath": 0.0110476, "statl": 0.0110476, "systh": 0.00609524, "systl": 0.00609524},
+        {"x": 3.75, "xl": 3.5, "xh": 4, "y": 0.104762, "stath": 0.0102857, "statl": 0.0102857, "systh": 0.00628571, "systl": 0.00647619},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.0975238, "stath": 0.00838096, "statl": 0.00838096, "systh": 0.00990476, "systl": 0.00990476},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.0944762, "stath": 0.0106667, "statl": 0.0106667, "systh": 0.0100952, "systl": 0.0100952},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.0687619, "stath": 0.0112381, "statl": 0.0112381, "systh": 0.0100952, "systl": 0.0102857},
     ]
 };
 
@@ -4929,6 +4980,28 @@ dataset["aprDsubs_RpA_ycm_pPb_8TeV_LHCb__pT-1-10"] = {
         {"x": 2.75, "xl": 2.5, "xh": 3, "y": 0.742, "stath": 0.011, "statl": 0.011, "systh": 0.072, "systl": 0.072},
         {"x": 3.25, "xl": 3, "xh": 3.5, "y": 0.743, "stath": 0.015, "statl": 0.015, "systh": 0.067, "systl": 0.067},
         {"x": 3.75, "xl": 3.5, "xh": 4, "y": 0.635, "stath": 0.034, "statl": 0.034, "systh": 0.069, "systl": 0.069},
+    ]
+};
+
+dataset["aprDsubs_v2_pT_OO_5p36TeV_ALICE_cent-0-20_absy-lt-0p8"] = {
+    reference : "ALICE Preliminary",
+    link : "https://indico.global/event/13943/contributions//143539",
+    update : "2026-03-23",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt D<sub>s</sub>",
+    collision : "OO",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "0-20%",
+    kineb : "|y| < 0.8",
+    data : [
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.0379459, "stath": 0.0724114, "statl": 0.0724114, "systh": 0.0204069, "systl": 0.0197486},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.0606568, "stath": 0.0319269, "statl": 0.0319269, "systh": 0.0102034, "systl": 0.0102034},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.0782857, "stath": 0.0331429, "statl": 0.0331429, "systh": 0.00990476, "systl": 0.0102857},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.107429, "stath": 0.0382857, "statl": 0.0382857, "systh": 0.00990476, "systl": 0.00990476},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.0899048, "stath": 0.048, "statl": 0.048, "systh": 0.02, "systl": 0.02},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.0302857, "stath": 0.0487619, "statl": 0.0487619, "systh": 0.02, "systl": 0.0198095},
     ]
 };
 
