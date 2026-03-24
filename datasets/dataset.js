@@ -14463,6 +14463,29 @@ dataset["incJpsi_RAA_pT_CuCu_200GeV_PHENIX_cent-0-20_absy-lt-0p35"] = {
     ]
 };
 
+dataset["incJpsi_RAA_pT_OO_5p36TeV_ALICE_cent-0-100_y-2p5-4"] = {
+    reference : "ALICE Preliminary",
+    link : "https://indico.global/event/13943/contributions//143549",
+    update : "2026-03-23",
+    observable : "RAA",
+    xtitle : "pT",
+    particle : "Inclusive J/&psi;",
+    collision : "OO",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "0-100%",
+    kineb : "2.5 < y < 4",
+    data : [
+        {"x": 0.5, "xl": 0, "xh": 1, "y": 0.581525, "stath": 0, "statl": 0, "systh": 0.0459733, "systl": 0.0467269},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.628251, "stath": 0.000753701, "statl": 0.000753701, "systh": 0.042205, "systl": 0.0406976},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.641064, "stath": 0, "statl": 0, "systh": 0.0414513, "systl": 0.0399441},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.656137, "stath": 0, "statl": 0, "systh": 0.046727, "systl": 0.0452196},
+        {"x": 4.5, "xl": 4, "xh": 5, "y": 0.70211, "stath": 0.0203488, "statl": 0.0203488, "systh": 0.0670758, "systl": 0.0670758},
+        {"x": 5.5, "xl": 5, "xh": 6, "y": 0.698342, "stath": 0.0241171, "statl": 0.0241171, "systh": 0.0587855, "systl": 0.0587856},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.706632, "stath": 0.0241172, "statl": 0.0241172, "systh": 0.079888, "systl": 0.0806417},
+    ]
+};
+
 dataset["incJpsi_RAA_pT_PbPb_2p76TeV_ALICE_cent-0-20_y-2p5-4"] = {
     reference : "JHEP 05 (2016) 179",
     link : "https://arxiv.org/abs/1506.08804",
@@ -17101,6 +17124,28 @@ dataset["incJpsi_RpA_pT_pAu_200GeV_STAR__absy-lt-0p5"] = {
     ]
 };
 
+dataset["incJpsi_RpA_pT_pO_9p62TeV_ALICE__ycm-2p15-3p65"] = {
+    reference : "ALICE Preliminary",
+    link : "https://indico.global/event/13943/contributions//143549",
+    update : "2026-03-23",
+    observable : "RpA",
+    xtitle : "pT",
+    particle : "Inclusive J/&psi;",
+    collision : "pO",
+    energy : "9.62 TeV",
+    collab : "ALICE",
+    kinea : "",
+    kineb : "2.15 < y<sub>cm</sub> < 3.65",
+    data : [
+        {"x": 0.5, "xl": 0, "xh": 1, "y": 0.718436, "stath": 0.0312849, "statl": 0.0312849, "systh": 0.049162, "systl": 0.0502793},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.777654, "stath": 0.024581, "statl": 0.024581, "systh": 0.0513967, "systl": 0.0513967},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.795531, "stath": 0.0279329, "statl": 0.0279329, "systh": 0.0502793, "systl": 0.049162},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.855866, "stath": 0.0312849, "statl": 0.0312849, "systh": 0.0513967, "systl": 0.0513966},
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.86257, "stath": 0.0290503, "statl": 0.0290503, "systh": 0.0469274, "systl": 0.0446927},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.995531, "stath": 0.0625699, "statl": 0.0625699, "systh": 0.0603352, "systl": 0.0603352},
+    ]
+};
+
 dataset["incJpsi_RpA_pT_pPb_5TeV_ALICE__ycm-2p03-3p53"] = {
     reference : "JHEP 06 (2015) 55",
     link : "https://arxiv.org/abs/1503.07179",
@@ -18040,6 +18085,25 @@ dataset["incJpsi_v2_pT_AuAu_200GeV_STAR_cent-40-80_absy-lt-1"] = {
     ]
 };
 
+dataset["incJpsi_v2_pT_OO_5p36TeV_ALICE_cent-20-60_absy-lt-0p9"] = {
+    reference : "ALICE Preliminary",
+    link : "https://indico.global/event/13943/contributions//143542",
+    update : "2026-03-23",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Inclusive J/&psi;",
+    collision : "OO",
+    energy : "5.36 TeV",
+    collab : "ALICE",
+    kinea : "20-60%",
+    kineb : "|y| < 0.9",
+    data : [
+        {"x": 1.19047, "xl": 0, "xh": 2, "y": -0.034078, "stath": 0.0979606, "statl": 0.0979606, "systh": 0.071354, "systl": 0.0689352},
+        {"x": 2.91717, "xl": 2, "xh": 4, "y": 0.0702795, "stath": 0.0799028, "statl": 0.0799028, "systh": 0.0799028, "systl": 0.0799028},
+        {"x": 5.26578, "xl": 4, "xh": 8, "y": 0.144933, "stath": 0.0664885, "statl": 0.0664885, "systh": 0.0606561, "systl": 0.0594897},
+    ]
+};
+
 dataset["incJpsi_v2_pT_PbPb_5TeV_ALICE_cent-0-10_absy-lt-0p9"] = {
     reference : "JHEP 10 (2020) 141",
     link : "https://arxiv.org/abs/2005.14518",
@@ -18054,7 +18118,7 @@ dataset["incJpsi_v2_pT_PbPb_5TeV_ALICE_cent-0-10_absy-lt-0p9"] = {
     kineb : "|y| < 0.9",
     data : [
         {"x": 1.8985, "xl": 0, "xh": 4, "y": 0.087924, "stath": 0.042595, "statl": 0.042595, "systh": 0.015202, "systl": 0.015202},
-        {"x": 5.2157, "xl": 4, "xh": 7, "y": 0.064252, "stath": 0.04982, "statl": 0.04982, "systh": 0.010158, "systl": 0.010158},
+        {"x": 5.2157, "xl": 4, "xh": 8, "y": 0.064252, "stath": 0.04982, "statl": 0.04982, "systh": 0.010158, "systl": 0.010158},
     ]
 };
 
@@ -18144,7 +18208,7 @@ dataset["incJpsi_v2_pT_PbPb_5TeV_ALICE_cent-30-50_absy-lt-0p9"] = {
     kineb : "|y| < 0.9",
     data : [
         {"x": 1.8647, "xl": 0, "xh": 4, "y": 0.05156, "stath": 0.051692, "statl": 0.051692, "systh": 0.023829, "systl": 0.023829},
-        {"x": 5.3461, "xl": 4, "xh": 7, "y": 0.10278, "stath": 0.046989, "statl": 0.046989, "systh": 0.01067, "systl": 0.01067},
+        {"x": 5.3461, "xl": 4, "xh": 8, "y": 0.10278, "stath": 0.046989, "statl": 0.046989, "systh": 0.01067, "systl": 0.01067},
     ]
 };
 
