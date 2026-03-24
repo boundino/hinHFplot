@@ -14463,6 +14463,27 @@ dataset["incJpsi_RAA_pT_CuCu_200GeV_PHENIX_cent-0-20_absy-lt-0p35"] = {
     ]
 };
 
+dataset["incJpsi_RAA_pT_OO_200GeV_STAR_cent-0-80_absy-lt-0p5"] = {
+    reference : "STAR Preliminary",
+    link : "https://indico.global/event/13943/contributions//143382",
+    update : "2026-03-23",
+    observable : "RAA",
+    xtitle : "pT",
+    particle : "Inclusive J/&psi;",
+    collision : "OO",
+    energy : "200 GeV",
+    collab : "STAR",
+    kinea : "0-80%",
+    kineb : "|y| < 0.5",
+    data : [
+        {"x": 0.5, "xl": 0, "xh": 1, "y": 0.67269, "stath": 0.0492814, "statl": 0.0492814, "systh": 0.0776181, "systl": 0.0837782},
+        {"x": 1.5, "xl": 1, "xh": 2, "y": 0.640657, "stath": 0.0431212, "statl": 0.0431212, "systh": 0.0825462, "systl": 0.0837782},
+        {"x": 2.5, "xl": 2, "xh": 3, "y": 0.758932, "stath": 0.0579056, "statl": 0.0579056, "systh": 0.0862423, "systl": 0.0899384},
+        {"x": 3.5, "xl": 3, "xh": 4, "y": 0.864887, "stath": 0.0960985, "statl": 0.0960985, "systh": 0.0960985, "systl": 0.103491},
+        {"x": 5, "xl": 4, "xh": 6, "y": 1.03368, "stath": 0.168789, "statl": 0.168789, "systh": 0.121971, "systl": 0.121971},
+    ]
+};
+
 dataset["incJpsi_RAA_pT_OO_5p36TeV_ALICE_cent-0-100_y-2p5-4"] = {
     reference : "ALICE Preliminary",
     link : "https://indico.global/event/13943/contributions//143549",
