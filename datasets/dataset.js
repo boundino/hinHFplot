@@ -7246,6 +7246,28 @@ dataset["aprLambdacToD0_LcToD0_Npart_PbPb_5TeV_LHCb_pT-2-8_y-2-4p5"] = {
     ]
 };
 
+dataset["aprLambdacToD0_LcToD0_Ntrk_pPb_8TeV_CMS_pT-3-5_absycm-lt-1"] = {
+    reference : "PLB 868 (2025) 139672",
+    link : "https://arxiv.org/abs/2407.13615",
+    update : "2026-03-23",
+    observable : "LcToD0",
+    xtitle : "Ntrk",
+    particle : "Prompt &Lambda;<sub>c</sub> / D<sup>0</sup>",
+    collision : "pPb",
+    energy : "8.16 TeV",
+    collab : "CMS",
+    kinea : "3 < p<sub>T</sub> < 5 GeV",
+    kineb : "|y<sub>cm</sub>| < 1",
+    data : [
+        {"x": 18.5209, "xl": 18.5209, "xh": 18.5209, "y": 0.548141, "stath": 0.0435681, "statl": 0.0435681, "systh": 0.0504936, "systl": 0.0508713},
+        {"x": 47.568, "xl": 47.568, "xh": 47.568, "y": 0.485937, "stath": 0.0308502, "statl": 0.0308502, "systh": 0.0434421, "systl": 0.042183},
+        {"x": 74.971, "xl": 74.971, "xh": 74.971, "y": 0.509232, "stath": 0.029591, "statl": 0.029591, "systh": 0.0465901, "systl": 0.0472197},
+        {"x": 105.026, "xl": 105.026, "xh": 105.026, "y": 0.460754, "stath": 0.0384054, "statl": 0.0384054, "systh": 0.0384054, "systl": 0.0377758},
+        {"x": 152.495, "xl": 152.495, "xh": 152.495, "y": 0.393387, "stath": 0.0497381, "statl": 0.0497381, "systh": 0.0635892, "systl": 0.0642188},
+        {"x": 217.555, "xl": 217.555, "xh": 217.555, "y": 0.460124, "stath": 0.0365166, "statl": 0.0365166, "systh": 0.0572932, "systl": 0.0566636},
+    ]
+};
+
 dataset["aprLambdacToD0_LcToD0_pT_PbPb_5TeV_ALICE_cent-0-10_absy-lt-0p5"] = {
     reference : "PLB 839 (2023) 137796",
     link : "https://arxiv.org/abs/2112.08156",
@@ -7539,9 +7561,9 @@ dataset["aprLambdacToD0_LcToD0_pT_pPb_5TeV_LHCb__ycm-M4p5-M2p5"] = {
 };
 
 dataset["aprLambdacToD0_LcToD0_pT_pPb_8TeV_CMS_Ntrk-1-35_absycm-lt-1"] = {
-    reference : "arXiv:2407.13615",
+    reference : "PLB 868 (2025) 139672",
     link : "https://arxiv.org/abs/2407.13615",
-    update : "2024-09-01",
+    update : "2026-03-23",
     observable : "LcToD0",
     xtitle : "pT",
     particle : "Prompt &Lambda;<sub>c</sub> / D<sup>0</sup>",
@@ -7561,9 +7583,9 @@ dataset["aprLambdacToD0_LcToD0_pT_pPb_8TeV_CMS_Ntrk-1-35_absycm-lt-1"] = {
 };
 
 dataset["aprLambdacToD0_LcToD0_pT_pPb_8TeV_CMS_Ntrk-185-250_absycm-lt-1"] = {
-    reference : "arXiv:2407.13615",
+    reference : "PLB 868 (2025) 139672",
     link : "https://arxiv.org/abs/2407.13615",
-    update : "2024-09-01",
+    update : "2026-03-23",
     observable : "LcToD0",
     xtitle : "pT",
     particle : "Prompt &Lambda;<sub>c</sub> / D<sup>0</sup>",
