@@ -210,11 +210,15 @@ function legenditem(tlegend, thisitem, tlegendid)
         .attr('display', legdrawornot("collab"))
         .text(' (' + thisitem.collab + ')');
     // collision1
-    tlegend.append('tspan')
-        .attr("dominant-baseline", "middle")
-        .style("font-style", "italic")
-        .attr('display', legdrawornot("collision1"))
-        .text('  ' + thisitem.collision);
+    var rpc = parsescript(thisitem.collision);
+    rpc[0].content = " " + rpc[0].content;
+    for(var p in rpc) {
+        tlegend.append('tspan')
+               .attr("class", rpc[p].cl)
+               .attr("dominant-baseline", "middle")
+               .attr('display', legdrawornot("collision1"))
+               .text(decodehtml(rpc[p].content));
+    }
     // collision2
     tlegend.append('tspan')
         .attr("dominant-baseline", "middle")
