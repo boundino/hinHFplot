@@ -8031,6 +8031,28 @@ dataset["aprLambdac_v2_pT_PbPb_5p36TeV_ALICE_cent-30-50_absy-lt-0p8"] = {
     ]
 };
 
+dataset["aprLambdac_v2_pT_PbPb_5p36TeV_CMS_cent-30-50_absy-lt-1"] = {
+    reference : "CMS-PAS-HIN-25-022",
+    link : "https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/HIN-25-022",
+    update : "2026-06-23",
+    observable : "v2",
+    xtitle : "pT",
+    particle : "Prompt &Lambda;<sub>c</sub>",
+    collision : "PbPb",
+    energy : "5.36 TeV",
+    collab : "CMS",
+    kinea : "30-50%",
+    kineb : "|y| < 1",
+    data : [
+        {"x": 5, "xl": 4, "xh": 6, "y": 0.181287, "stath": 0.10848, "statl": 0.10848, "systh": 0.0461988, "systl": 0.045614},
+        {"x": 7, "xl": 6, "xh": 8, "y": 0.161404, "stath": 0.0312866, "statl": 0.0312866, "systh": 0.0169591, "systl": 0.0163743},
+        {"x": 9, "xl": 8, "xh": 10, "y": 0.100292, "stath": 0.027193, "statl": 0.027193, "systh": 0.0157895, "systl": 0.0157895},
+        {"x": 12.5, "xl": 10, "xh": 15, "y": 0.0830409, "stath": 0.0190058, "statl": 0.0190058, "systh": 0.0149123, "systl": 0.0149123},
+        {"x": 20, "xl": 15, "xh": 25, "y": 0.075731, "stath": 0.0260234, "statl": 0.0260234, "systh": 0.0216374, "systl": 0.021345},
+        {"x": 32.5, "xl": 25, "xh": 40, "y": 0.0953216, "stath": 0.0596491, "statl": 0.0596491, "systh": 0.0520468, "systl": 0.0520468},
+    ]
+};
+
 dataset["aprpsi2SToJpsi_DoubleRatio_cent_PbPb_2p76TeV_CMS_pT-3-30_absy-1p6-2p4"] = {
     reference : "PRL 113 (2014) 262301",
     link : "https://arxiv.org/abs/1410.1804",
