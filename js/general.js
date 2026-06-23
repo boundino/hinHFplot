@@ -48,6 +48,9 @@ function loadoptions()
         var opt = document.createElement('option');
         opt.value = obss[i].name;
         opt.innerHTML = obss[i].title;
+        if (obss[i].name === "v2") {
+            opt.selected = true;
+        }
         document.getElementById('observable').appendChild(opt);
     }
     for(var i=0; i<vars.length; i++) {
